@@ -13,8 +13,10 @@ Arudino Photospectrometer using TCD1109DG Sensor
 | 6 (φ2)        | Clock 2 (phi2) | D8           |
 | 7\~11         | NC             | -            |
 | 12\~16        | NC             | -            |
-| 17 (φ2B)      | φ2 mirror      | GND          | <- essential GND. Otherwise, Clock won't work properly.
+| 17 (φ2B)      | φ2 mirror      | GND          |
 | 18 (RS)       | Reset Pulse    | D7           |
 | 19\~20 (NC)   | -              | -            |
 | 21 (CP)       | Clamp Pulse    | D6           |
 | 22 (SH)       | Shift Pulse    | D5           |
+
+* 17 Pin GND connection is essential. Otherwise, Clock won't work properly.
