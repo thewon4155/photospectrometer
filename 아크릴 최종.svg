@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="594mm"
+   viewBox="0 0 420 594"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="아크릴 최종.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="495.5"
+     inkscape:cy="153.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.092;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="86.908241"
+       height="59.908245"
+       x="15.491031"
+       y="21.715061" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0999705;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-8"
+       width="67.900032"
+       height="59.900028"
+       x="112.48857"
+       y="21.736488" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="37.92527"
+       height="59.92527"
+       x="185.23637"
+       y="21.723867" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0996723;stroke-dasharray:none"
+       id="path23"
+       cx="208.43428"
+       cy="56.616703"
+       rx="6.010664"
+       ry="5.9501638" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.10002;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="169.89998"
+       height="59.899979"
+       x="14.975906"
+       y="98.043274" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.100159;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="41.899841"
+       height="9.8998413"
+       x="104.00908"
+       y="120.32359" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.10002;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8"
+       width="169.89998"
+       height="59.899979"
+       x="14.975906"
+       y="164.98286" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.100159;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="41.899841"
+       height="9.8998413"
+       x="104.00908"
+       y="187.79234" />
+  </g>
+</svg>
